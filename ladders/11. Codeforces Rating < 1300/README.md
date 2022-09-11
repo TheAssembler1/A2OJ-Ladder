@@ -34,7 +34,7 @@
 |<ul><li>- [X] Done</li></ul>|27|[Petya and Strings](http://codeforces.com/problemset/problem/112/A)|Codeforces|1|
 |<ul><li>- [X] Done</li></ul>|28|[Team](http://codeforces.com/problemset/problem/231/A)|Codeforces|1|
 |<ul><li>- [X] Done</li></ul>|29|[Bit++](http://codeforces.com/problemset/problem/282/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|30|[Effective Approach](http://codeforces.com/problemset/problem/227/B)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|30|[Effective Approach](http://codeforces.com/problemset/problem/227/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|31|[Dima and Friends](http://codeforces.com/problemset/problem/272/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|32|[Jzzhu and Children](http://codeforces.com/problemset/problem/450/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|33|[Supercentral Point](http://codeforces.com/problemset/problem/165/A)|Codeforces|2|
