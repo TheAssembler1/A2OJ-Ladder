@@ -25,8 +25,8 @@
 |<ul><li>- [X] Done</li></ul>|18|[I_love_\%username\%](http://codeforces.com/problemset/problem/155/A)|Codeforces|1|
 |<ul><li>- [X] Done</li></ul>|19|[Tram](http://codeforces.com/problemset/problem/116/A)|Codeforces|1|
 |<ul><li>- [X] Done</li></ul>|20|[Helpful Maths](http://codeforces.com/problemset/problem/339/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|21|[Is your horseshoe on the other hoof?](http://codeforces.com/problemset/problem/228/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|22|[Way Too Long Words](http://codeforces.com/problemset/problem/71/A)|Codeforces|1|
+|<ul><li>- [X] Done</li></ul>|21|[Is your horseshoe on the other hoof?](http://codeforces.com/problemset/problem/228/A)|Codeforces|1|
+|<ul><li>- [X] Done</li></ul>|22|[Way Too Long Words](http://codeforces.com/problemset/problem/71/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|23|[Boy or Girl](http://codeforces.com/problemset/problem/236/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|24|[Amusing Joke](http://codeforces.com/problemset/problem/141/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|25|[Soft Drinking](http://codeforces.com/problemset/problem/151/A)|Codeforces|1|
